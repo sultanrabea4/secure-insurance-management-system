@@ -4,7 +4,7 @@ A security-hardened version of an open-source, console-based **Python insurance 
 
 The goal of this project was **secure code review**: find the vulnerabilities in the original application with **static analysis (SAST)** and manual code review, fix them, and confirm the fixes by re-scanning.
 
-> Application Security coursework. The base application is an existing open-source project; the security analysis and every fix described below are my own work.
+> Application Security coursework. The base application is the open-source [Insurance_Managment_System_Py](https://github.com/NikylS007/Insurance_Managment_System_Py) by **NikylS007**; the security analysis and every fix described below are my own work.
 
 ---
 
